@@ -1,11 +1,11 @@
-# 🎮 Batch Games Collection
+# 🎮 Batch Games Collection:
 
 Welcome to my **Windows batch-script games** collection! 🕹️  
 Perfect for learning scripting logic while having fun in the console.  
 
 ---
 
-## 🚀 Included Games
+## 🚀 Included Games:
 | Game | Description |
 |------|-------------|
 | **Hangman** | Guess the word before you run out of attempts. 📝 |
@@ -17,7 +17,7 @@ Perfect for learning scripting logic while having fun in the console.
 
 ---
 
-## 🕹️ How to Play
+## 🕹️ How to Play?
 1. Clone or download this repository.  
 2. Open the folder in Windows Explorer.  
 3. Double-click the batch file for the game you want to play (e.g., `Hangman.bat`).  
@@ -25,17 +25,18 @@ Perfect for learning scripting logic while having fun in the console.
 
 ---
 
-## ⚡ Features
+## ⚡ Features:
 - Pure batch scripts – **no installation required**.  
 - Lightweight and runs on any Windows PC.  
 - Great for beginners to learn scripting basics and game logic.  
 
 ---
 
-## ✅ Notes
+## ✅ Notes:
 - All games run in the **Command Prompt**.  
 - Completely safe and **educational** – no personal data is accessed or modified.  
 
 ---
 
 > 💡 Tip: Try modifying the scripts to create your own custom games and learn more about batch scripting!
+
