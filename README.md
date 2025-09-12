@@ -39,3 +39,5 @@ Perfect for learning scripting logic while having fun in the console.
 ---
 
 > 💡 Tip: Try modifying the scripts to create your own custom games and learn more about batch scripting!
+
+---
