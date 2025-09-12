@@ -18,10 +18,10 @@ Perfect for learning scripting logic while having fun in the console.
 ---
 
 ## 🕹️ How to Play?
-1. Clone or download this repository.  
+1. Download this repository.  
 2. Open the folder in Windows Explorer.  
 3. Double-click the batch file for the game you want to play (e.g., `Hangman.bat`).  
-4. Follow the on-screen instructions in the console.  
+4. Have fun!!
 
 ---
 
@@ -39,6 +39,3 @@ Perfect for learning scripting logic while having fun in the console.
 ---
 
 > 💡 Tip: Try modifying the scripts to create your own custom games and learn more about batch scripting!
-
-
-
